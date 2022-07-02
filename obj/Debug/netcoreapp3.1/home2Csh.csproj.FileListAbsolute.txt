@@ -1,0 +1,14 @@
+C:\Users\vitalya\source\repos\home2Csh\obj\Debug\netcoreapp3.1\home2Csh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitalya\source\repos\home2Csh\obj\Debug\netcoreapp3.1\home2Csh.AssemblyInfoInputs.cache
+C:\Users\vitalya\source\repos\home2Csh\obj\Debug\netcoreapp3.1\home2Csh.AssemblyInfo.cs
+C:\Users\vitalya\source\repos\home2Csh\obj\Debug\netcoreapp3.1\home2Csh.csproj.CoreCompileInputs.cache
+C:\Users\vitalya\source\repos\home2Csh\bin\Debug\netcoreapp3.1\home2Csh.exe
+C:\Users\vitalya\source\repos\home2Csh\bin\Debug\netcoreapp3.1\home2Csh.deps.json
+C:\Users\vitalya\source\repos\home2Csh\bin\Debug\netcoreapp3.1\home2Csh.runtimeconfig.json
+C:\Users\vitalya\source\repos\home2Csh\bin\Debug\netcoreapp3.1\home2Csh.runtimeconfig.dev.json
+C:\Users\vitalya\source\repos\home2Csh\bin\Debug\netcoreapp3.1\home2Csh.dll
+C:\Users\vitalya\source\repos\home2Csh\bin\Debug\netcoreapp3.1\home2Csh.pdb
+C:\Users\vitalya\source\repos\home2Csh\obj\Debug\netcoreapp3.1\home2Csh.dll
+C:\Users\vitalya\source\repos\home2Csh\obj\Debug\netcoreapp3.1\home2Csh.pdb
+C:\Users\vitalya\source\repos\home2Csh\obj\Debug\netcoreapp3.1\home2Csh.genruntimeconfig.cache
+C:\Users\vitalya\source\repos\home2Csh\obj\Debug\netcoreapp3.1\home2Csh.csproj.AssemblyReference.cache
